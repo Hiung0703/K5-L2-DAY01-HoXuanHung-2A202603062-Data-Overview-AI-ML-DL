@@ -117,10 +117,10 @@ Kiểm tra trên GitHub trong thư mục `report/`:
 - [x] `day1_lab_outputs/classification_predictions.json`
 - [x] `day1_lab_outputs/detection_predictions.json`
 - [x] `day1_lab_outputs/segmentation_predictions.json`
-- [ ] `day1_lab_outputs/IMAGE_ATTRIBUTION.md` (notebook tạo khi chạy)
+- [x] `day1_lab_outputs/IMAGE_ATTRIBUTION.md` (notebook tạo khi chạy)
 - [x] `day1_lab_outputs/visuals/classification_top5.png`
 - [x] `day1_lab_outputs/visuals/detection_predictions.png`
 - [x] `day1_lab_outputs/visuals/segmentation_prediction.png`
-- [ ] Ô validation cuối notebook báo `PASS`
+- [x] Ô validation cuối notebook báo `PASS`
 - [x] Không có họ tên, MSSV hoặc dữ liệu nhạy cảm trong báo cáo/output
 - [ ] Đã nộp **link repository** trên LMS
